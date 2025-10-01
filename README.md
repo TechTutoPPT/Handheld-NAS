@@ -1,4 +1,3 @@
-# Handheld-NAS
 [![](https://github.com/TechTutoPPT/Handheld-NAS/blob/main/IMG_8234.png)](https://youtu.be/uIRxjjSHQKM)
 
 準備材料:
