@@ -1,4 +1,4 @@
-[![](https://github.com/TechTutoPPT/Handheld-NAS/blob/main/IMG_8234.png)](https://youtu.be/uIRxjjSHQKM)
+[![](https://github.com/TechTutoPPT/Handheld-NAS/blob/main/IMG_8234.png)](https://youtu.be/K3hJTjUzWzI)
 
 準備材料:
 建議一部不少於128GB容量, Android 7.0以上版本的手機
